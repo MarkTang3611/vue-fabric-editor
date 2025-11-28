@@ -4,11 +4,11 @@
       <!-- 头部区域 -->
       <Header v-if="state.show">
         <!-- logo -->
-        <span class="logo">
+        <!-- <span class="logo">
           <a href="https://github.com/nihaojob/vue-fabric-editor" target="_blank">
             <Icon type="logo-github" :size="30" />
           </a>
-        </span>
+        </span> -->
 
         <!-- 导入 -->
         <import-JSON></import-JSON>
